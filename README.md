@@ -2,7 +2,7 @@
 
 This is a template for Rust projects which is convenient to me.
 
-I use AGPL 3.0 or later by default.
+I use AGPL-3.0-or-later by default.
 
 ## License
 
@@ -21,4 +21,4 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ## Copyright
 
-© 2024 Petr Alexandrovich Sabanov
+© 2024 Petr Aleksandrovich Sabanov

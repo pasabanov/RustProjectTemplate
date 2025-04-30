@@ -1,5 +1,5 @@
 // <brief description>
-// Copyright (C) © 2024  Petr Alexandrovich Sabanov
+// Copyright (C) © 2024  Petr Aleksandrovich Sabanov
 //
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU Affero General Public License as published by
