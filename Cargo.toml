@@ -20,6 +20,7 @@ exclude = [
 	"/.editorconfig",
 	"/.gitattributes",
 	"/.gitignore",
+	"/.gitlab-ci.yml",
 	"/.gitmodules",
 	"/.rustfmt.toml",
 	"/rustfmt.toml",
